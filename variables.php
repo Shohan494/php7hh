@@ -24,7 +24,7 @@ define('PI', 22/7);
 // echo "Value of PI : {$PI}";
 // echo "\n";
 
-// SHOULD WORK BOTH
+// SHOULD WORK 
 
 // echo "Value of PI : " . PI; // 3.1428571428571
 // echo "\n";
