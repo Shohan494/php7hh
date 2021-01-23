@@ -1,5 +1,6 @@
 <?php
 
+// CTRL + ALT + N
 echo "Testing Code Runner!!!";
 
 $age = 28;
